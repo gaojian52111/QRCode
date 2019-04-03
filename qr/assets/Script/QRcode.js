@@ -1,6 +1,6 @@
 cc.Class({
 	extends: cc.Component,
-
+//qqq
 	properties: {
 
 	},
